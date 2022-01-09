@@ -2,7 +2,6 @@
 layout: default
 title: Начало
 nav_order: 1
-permalink: "#timetable-bot"
 ---
 ![Image](clock.jpg)
 # Timetable Bot
