@@ -1,6 +1,5 @@
 title: Timetable Bot
 remote_theme: pmarsceill/just-the-docs
-logo: "/icon-main.png"
 
 search_enabled: true
 search:
@@ -17,6 +16,5 @@ heading_anchors: true
 nav_sort: case_sensitive
 
 footer_content: "Разработано студентом 307 группы Насоновым Никитой для <a href=\"https://amchs.ru\">Академии гражданской защиты МЧС России</a>"
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 color_scheme: nil
