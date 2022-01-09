@@ -1,23 +1,13 @@
 title: Timetable Bot
 remote_theme: pmarsceill/just-the-docs
 
-search_enabled: true
-search:
-  heading_level: 1
-  previews: 2
-  preview_words_before: 3
-  preview_words_after: 3
-  tokenizer_separator: /[\s/]+/
-  rel_url: true
-  button: false
+search_enabled: false
 
 heading_anchors: true
 
 aux_links:
   "Академия гражданской защиты МЧС России":
     - "https://amchs.ru"
-
-nav_sort: case_sensitive
 
 footer_content: "Разработчик - студент 307 группы Насонов Никита"
 
