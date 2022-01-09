@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: TimetableBot
 logo: "icon-main.png"
+title: "TimetableBot"
 
 search_enabled: true
 search:
@@ -13,14 +13,10 @@ search:
   rel_url: true
   button: false
 
-# Enable or disable heading anchors
 heading_anchors: true
 
 nav_sort: case_sensitive
 
-back_to_top: true
-back_to_top_text: "Вернуться наверх"
-
-footer_content: "Разработано для [Академии гражданской защиты МЧС России](https://amchs.ru) студентом 307 группы Насоновым Никитой"
+footer_content: "Разработано студентом 307 группы Насоновым Никитой для <a href=\"https://amchs.ru"\>"Академии гражданской защиты МЧС России"</a>"
 
 color_scheme: nil

@@ -11,6 +11,5 @@ nav_order: 2
     Навигация по сайту
   </summary>
   {: .text-delta }
-1. TOC
 {:toc}
 </details>
