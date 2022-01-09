@@ -3,6 +3,7 @@ layout: default
 title: Главная
 nav_order: 1
 ---
+![Image](clock.jpg)
 # Timetable Bot
 {: .fs-9 }
 
