@@ -13,8 +13,12 @@ search:
 
 heading_anchors: true
 
+aux_links:
+  "Академия гражданской защиты МЧС России":
+    - "https://amchs.ru"
+
 nav_sort: case_sensitive
 
-footer_content: "Разработчик - студент 307 группы Насонов Никита <a href=\"https://amchs.ru\">"Академия гражданской защиты МЧС России"</a>"
+footer_content: "Разработчик - студент 307 группы Насонов Никита"
 
 color_scheme: nil
