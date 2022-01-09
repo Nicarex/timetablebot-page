@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 logo: "icon-main.png"
-title: "TimetableBot"
+title: TimetableBot
 
 search_enabled: true
 search:
