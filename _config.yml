@@ -8,6 +8,8 @@ heading_anchors: true
 aux_links:
   "Академия гражданской защиты МЧС России":
     - "https://amchs.ru"
+  "Сообщество Timetable Bot":
+    - "https://vk.com/bot_agz"
 
 footer_content: "Разработчик - студент 307 группы Насонов Никита"
 

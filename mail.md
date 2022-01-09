@@ -2,7 +2,7 @@
 layout: default
 title: Почта
 nav_order: 3
-permalink: "https://nicarex.github.io/timetablebot-site/#%D0%BF%D0%BE%D1%87%D1%82%D0%B0"
+permalink: "/#%D0%BF%D0%BE%D1%87%D1%82%D0%B0"
 ---
 # Почта
 
