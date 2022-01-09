@@ -4,7 +4,6 @@ title: ВКонтакте
 nav_order: 2
 ---
 # ВКонтакте
-{: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -13,3 +12,5 @@ nav_order: 2
   {: .text-delta }
 {:toc}
 </details>
+
+---
