@@ -2,6 +2,7 @@
 layout: default
 title: Начало
 nav_order: 1
+permalink: "#timetable-bot"
 ---
 ![Image](clock.jpg)
 # Timetable Bot
@@ -156,9 +157,9 @@ nav_order: 1
 2. Открыть установленное приложение
 3. Войти в свой Google Аккаунт, который должен быть тем же, что и на компьютере
 4. Открыть меню слева
-![google-android-1](google-android-1.png)
+   <img alt="google-android-1" height="1131" src="google-android-1.png" width="540"/>
 5. Пролистать вниз до конца, если у вас много календарей
-![google-android-2](google-android-2.png)
+   <img alt="google-android-2" height="1131" src="google-android-2.png" width="540"/>
 6. Выбрать "Настройки"
 ![google-android-3](google-android-3.png)
 7. Под своим аккаунтом выбрать "Ещё"
