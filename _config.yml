@@ -15,6 +15,10 @@ heading_anchors: true
 
 nav_sort: case_sensitive
 
-footer_content: "Разработчик - студент 307 группы Насонов Никита\<a href=\"https://amchs.ru\">Академия гражданской защиты МЧС России</a>"
+footer_content: "Разработчик - студент 307 группы Насонов Никита"
+
+gh_edit_link: true
+gh_edit_link_text: "Академия гражданской защиты МЧС России"
+gh_edit_repository: "https://amchs.ru"
 
 color_scheme: nil
