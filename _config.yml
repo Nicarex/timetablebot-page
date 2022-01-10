@@ -11,4 +11,7 @@ aux_links:
   "Сообщество Timetable Bot":
     - "https://vk.com/bot_agz"
 
+back_to_top: true
+back_to_top_text: "Вернуться наверх"
+
 color_scheme: nil
