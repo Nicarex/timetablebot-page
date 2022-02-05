@@ -14,6 +14,23 @@ nav_order: 1
 * Автоматическое уведомление об изменениях в расписании
 * Поддерживается почта, ВКонтакте и календарь
 {: .fs-6 .fw-300 }
+
+<button class="btn js-toggle-dark-mode">Включить темный режим</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Включить темную тему';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Включить светлую тему';
+  }
+});
+</script>
+
 ---
 
 ## Начало работы
