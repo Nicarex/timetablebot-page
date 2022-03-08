@@ -226,14 +226,14 @@ https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permission
 ### Компьютер
 1. Переходим по ссылке [Google Календарь](https://calendar.google.com)
 2. Нажимаем на плюс в "Другие календари"
-   <img alt="google-desktop-1" src="images/google-desktop-1.png"/>
+   <img alt="google-desktop-1" src="images/google-desktop-1.png" title="google-desktop-1"/>
 3. Выбираем "Добавить по URL"
-   <img alt="google-desktop-2" src="images/google-desktop-2.png"/>
+   <img alt="google-desktop-2" src="images/google-desktop-2.png" title="google-desktop-2"/>
 4. Вставляем ссылку в поле "URL календаря"
-   <img alt="google-desktop-3" src="images/google-desktop-3.png"/>
+   <img alt="google-desktop-3" src="images/google-desktop-3.png" title="google-desktop-3"/>
 5. Нажимаем "Добавить календарь"
 6. Всё, календарь добавлен. Закрываем меню и пользуемся.
-   <img alt="google-desktop-4" src="images/google-desktop-4.png"/>
+   <img alt="google-desktop-4" src="images/google-desktop-4.png" title="google-desktop-4"/>
 
 ### Android
 Добавить календарь в мобильной версии Google Календаря **нельзя**.\
@@ -247,17 +247,17 @@ https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permission
 2. Открыть установленное приложение
 3. Войти в свой Google Аккаунт, который должен быть тем же, что и на компьютере
 4. Открыть меню слева\
-   <img alt="google-android-1" height="565" src="google-android-1.png" width="270"/>
+   <img alt="google-android-1" height="565" src="images/google-android-1.png" title="google-android-1" width="270"/>
 5. Пролистать вниз до конца, если у вас много календарей\
-   <img alt="google-android-2" height="565" src="google-android-2.png" width="270"/>
+   <img alt="google-android-2" height="565" src="images/google-android-2.png" title="google-android-2" width="270"/>
 6. Выбрать "Настройки"\
-   <img alt="google-android-3" height="565" src="google-android-3.png" width="270"/>
+   <img alt="google-android-3" height="565" src="images/google-android-3.png" title="google-android-3" width="270"/>
 7. Под своим аккаунтом выбрать "Ещё"\
-   <img alt="google-android-4" height="565" src="google-android-4.png" width="270"/>
+   <img alt="google-android-4" height="565" src="images/google-android-4.png" title="google-android-4" width="270"/>
 8. Включить пункт "Синхронизация"\
-   <img alt="google-android-5" height="565" src="google-android-5.png" width="270"/>
+   <img alt="google-android-5" height="565" src="images/google-android-5.png" title="google-android-5" width="270"/>
 9. Всё, календарь добавлен. Закрываем меню и пользуемся. Может потребоваться выбрать календарь в списке календарей в меню слева.\
-   <img alt="google-android-6" height="565" src="google-android-6.png" width="270"/>
+   <img alt="google-android-6" height="565" src="images/google-android-6.png" title="google-android-6" width="270"/>
 
 ### IOS
 Добавить календарь в мобильной версии Google Календаря **нельзя**.\
@@ -271,9 +271,9 @@ https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permission
 2. Открыть установленное приложение
 3. Войти в свой Google Аккаунт, который должен быть тем же, что и на компьютере
 4. Включить сбоку свой добавленный календарь, если он не включен
-![google-ipad-2](images/google-ipad-2.png)
+   <img alt="google-ipad-2" height="790" src="images/google-ipad-2.png" title="google-ipad-2" width="1080"/>
 5. Всё, календарь добавлен. Закрываем меню и пользуемся.
-![google-ipad-1](images/google-ipad-1.png)
+   <img alt="google-ipad-1" height="790" src="images/google-ipad-1.png" title="google-ipad-1" width="1080"/>
 
 ## Apple Календарь
 ### IOS
@@ -281,14 +281,14 @@ Apple Календарь, как правило, предустановлен н
 
 1. Открываем приложение
 2. Нажимаем кнопку "Добавить", которая находится в нижней части экрана
-![apple-ipad-1](images/apple-ipad-1.png)
+   <img alt="apple-ipad-1" height="790" src="images/apple-ipad-1.png" title="apple-ipad-1" width="1080"/>
 3. Выбираем "Добавить подписной календарь"
-![apple-ipad-2](images/apple-ipad-2.png)
+   <img alt="apple-ipad-2" height="790" src="images/apple-ipad-2.png" title="apple-ipad-2" width="1080"/>
 4. Вставляем скопированную ссылку в поле "URL-адрес подписки", нажимаем кнопку "Подписаться"
-![apple-ipad-3](images/apple-ipad-3.png)
+   <img alt="apple-ipad-3" height="790" src="images/apple-ipad-3.png" title="apple-ipad-3" width="1080"/>
 5. Меняем параметры по умолчанию, если необходимо, и выбираем кнопку "Добавить"
 6. Всё, календарь добавлен. Закрываем меню и пользуемся. Может потребоваться выбрать календарь в списке календарей в меню слева.
-![apple-ipad-4](images/apple-ipad-4.png)
+   <img alt="apple-ipad-4" height="790" src="images/apple-ipad-4.png" title="apple-ipad-4" width="1080"/>
 
 ---
 ![output](images/output.png)
