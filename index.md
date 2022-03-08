@@ -226,14 +226,14 @@ https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permission
 ### Компьютер
 1. Переходим по ссылке [Google Календарь](https://calendar.google.com)
 2. Нажимаем на плюс в "Другие календари"
-![google-desktop-1](images/google-desktop-1.png)
+   <img alt="google-desktop-1" src="images/google-desktop-1.png"/>
 3. Выбираем "Добавить по URL"
-![google-desktop-2](images/google-desktop-2.png)
+   <img alt="google-desktop-2" src="images/google-desktop-2.png"/>
 4. Вставляем ссылку в поле "URL календаря"
-![google-desktop-3](images/google-desktop-3.png)
+   <img alt="google-desktop-3" src="images/google-desktop-3.png"/>
 5. Нажимаем "Добавить календарь"
 6. Всё, календарь добавлен. Закрываем меню и пользуемся.
-![google-desktop-4](images/google-desktop-4.png)
+   <img alt="google-desktop-4" src="images/google-desktop-4.png"/>
 
 ### Android
 Добавить календарь в мобильной версии Google Календаря **нельзя**.\
