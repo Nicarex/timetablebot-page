@@ -185,11 +185,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 К сожалению, _уведомления об изменениях в расписании не работают_ из-за особенностей платформы.
 
-Для добавления бота на сервер перейдите по ссылке:
-
-https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permissions=19456&scope=bot%20applications.commands
-
-Или нажмите на кнопку:
+Для добавления бота на сервер нажмите на кнопку:
 
 [Добавить на сервер](https://discord.com/api/oauth2/authorize?client_id=946461566914678814&permissions=19456&scope=bot%20applications.commands){: .btn .btn-blue }
 
